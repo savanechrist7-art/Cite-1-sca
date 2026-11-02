@@ -1,0 +1,9 @@
+...doctype html 
+<Html>
+<Head>
+<Title>mon premier cite</title>
+</head>
+<Body>bien venu dans ma page 
+CESI est mon premier cite fait maison 
+</Body>
+</Html>
